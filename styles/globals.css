@@ -14,7 +14,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../src/assets/images/background.gif);
+  background-image: url(../public/background.gif);
   background-repeat: no-repeat;
   background-size: cover;
 }

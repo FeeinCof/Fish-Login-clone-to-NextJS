@@ -140,7 +140,7 @@ button.ghost:hover .register {
 }
 
 .overlay {
-  background-image: url(../src/assets/images/background.gif);
+  background-image: url(../public/background.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
